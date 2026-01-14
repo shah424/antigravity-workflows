@@ -1,6 +1,6 @@
 {
   "name": "antigravity-workflows",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Community-driven workflows for Antigravity AI. Like Claude Skills - reusable prompts and automation for AI coding assistants.",
   "main": "src/index.js",
   "scripts": {
